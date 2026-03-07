@@ -1,5 +1,7 @@
-# Top Commit
+<p align="center">
+    <a href="https://user-badge.committers.top/uzbekistan/mirrrjr">
+        <img src="https://user-badge.committers.top/uzbekistan/mirrrjr.svg" alt="committers.top badge" />
+    </a>
+</p>
 
-<a href="https://user-badge.committers.top/uzbekistan/mirrrjr">
-  <img src="https://user-badge.committers.top/uzbekistan/mirrrjr.svg" alt="committers.top badge" />
-</a>
+# Top Commit
